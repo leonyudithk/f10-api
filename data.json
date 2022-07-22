@@ -282,5 +282,29 @@
           "description": "prueba correo",
           "id": 4
         }
-      ]
+      ],
+   "registros":
+    [
+        {
+    "id": 1,
+    "nombre": "Yudith Leon",
+    "tipo": "P.T",
+    "numero": 1234569785,
+    "telefono": 4569877,
+    "celular": 3158965478,
+    "direccion": "cr 78 cll 90 88",
+    "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658250505/frontend11/WhatsApp_Image_2022-07-19_at_11.42.40_AM_epnky4.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Alexandra Cortés",
+    "tipo": "C.C",
+    "numero": 1234569785,
+    "telefono": 4569877,
+    "celular": 3158965478,
+    "direccion": "cr 78 cll 90 88",
+    "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658250524/frontend11/287327431_5299608296787603_1540176020203242485_n_qpfh5i.png"
+  }
+    ]
+    
   }
