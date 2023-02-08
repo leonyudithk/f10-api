@@ -1,4 +1,32 @@
 {
+    "category": [
+        {
+            "id": 1,
+            "info": {
+                "name": "Almuerzo", 
+                "type": "type_food", 
+                "description": "Este almuerzo se debe de comprar en la tienda del ladoo"
+            }
+        },
+        {
+            "id": 2,
+            "info": {
+                "name": "Barberia", 
+                "type": "learning_environment", 
+                "description": "Este almuerzo se debe de comprar en la tienda del ladoo"
+            }
+        },
+        {
+            "id": 3,
+            "info": {
+                "name": "Almuerzo3", 
+                "type": "type_food", 
+                "description": "Este almuerzo se debe de comprar en la tienda del ladoo"
+            }
+        }
+
+    ],
+     
     "data": [
       {
         "nombre": "Alexandra",
